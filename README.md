@@ -1,2 +1,3 @@
 # antimicrobial-peptides-prediction
-Machine Learning Project: Predicting Antimicrobial Peptides
+Machine Learning - Bioinformatics Project: Predicting Antimicrobial Peptides
+
